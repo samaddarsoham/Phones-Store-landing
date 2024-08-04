@@ -1,0 +1,17 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "vite",
+    "build":"vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}
